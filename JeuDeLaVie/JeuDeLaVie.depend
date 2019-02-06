@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548864678 source:c:\users\brayan\documents\mega\ludus f2\c\exo\jeudelavie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cellule.h"
+
+1548863931 c:\users\brayan\documents\mega\ludus f2\c\exo\jeudelavie\cellule.h
+
+1548864041 source:c:\users\brayan\documents\mega\ludus f2\c\exo\jeudelavie\cellule.c
+	<stdio.h>
+	<stdlib.h>
+	"cellule.h"
+
